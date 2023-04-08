@@ -1,3 +1,5 @@
+# Programming Role Playing Games with DirectX
+
 ### 默认使用9.0c SDK目录
 $(DXSDK_DIR)Include;
 $(DXSDK_DIR)Lib\x86;
