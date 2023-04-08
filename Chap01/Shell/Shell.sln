@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shell", "Shell.vcxproj", "{AEE80836-3D9C-4DC9-8098-EEE2A3B9BE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE80836-3D9C-4DC9-8098-EEE2A3B9BE2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEE80836-3D9C-4DC9-8098-EEE2A3B9BE2A}.Debug|x86.Build.0 = Debug|Win32
+		{AEE80836-3D9C-4DC9-8098-EEE2A3B9BE2A}.Release|x86.ActiveCfg = Release|Win32
+		{AEE80836-3D9C-4DC9-8098-EEE2A3B9BE2A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381A8FF0-347B-40BD-9DD8-29B0833253A8}
+	EndGlobalSection
+EndGlobal

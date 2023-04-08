@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Font", "Font.vcxproj", "{ED96986D-7E0E-4994-A81C-E9F7A16CEF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED96986D-7E0E-4994-A81C-E9F7A16CEF30}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED96986D-7E0E-4994-A81C-E9F7A16CEF30}.Debug|x86.Build.0 = Debug|Win32
+		{ED96986D-7E0E-4994-A81C-E9F7A16CEF30}.Release|x86.ActiveCfg = Release|Win32
+		{ED96986D-7E0E-4994-A81C-E9F7A16CEF30}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7955BDA4-1F88-49D1-9E1C-19E036730C3E}
+	EndGlobalSection
+EndGlobal
